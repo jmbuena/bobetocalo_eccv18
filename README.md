@@ -1,5 +1,8 @@
 # Face Alignment using a Deeply-initialized Coarse-to-fine Ensemble of Regression Trees
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nkv-6nB2yPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 We provide C++ code in order to replicate the face alignment experiments in our paper
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Roberto_Valle_A_Deeply-initialized_Coarse-to-fine_ECCV_2018_paper.pdf
 
